@@ -4,6 +4,7 @@
 <img src="https://github.com/SheiShei/Leaf/blob/master/src/leaf/FINALsplash(500px).jpg" />
 
 <i>run the main file inside leaf folder in src</i>
+<br>
 <i>go to sample code folder for clearer examples</i>
 
 <strong>Demos:</strong>
