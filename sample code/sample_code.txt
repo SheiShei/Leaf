@@ -1,0 +1,20 @@
+print "Hello World"
+declare int b 0
+declare int c 0
+declare int total 0
+scan int b
+scan int c
+print "The sum is"
+add total b c
+print total
+print "The difference is"
+sub total b c
+print total
+print "The product is"
+mul total b c
+print total
+print "The quotient is"
+div total b c
+print total
+loop 4
+this print "shei"

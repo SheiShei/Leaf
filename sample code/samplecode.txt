@@ -1,0 +1,5 @@
+print "Hello World"
+declare int a 23
+print a
+declare float b 1.2
+print b
